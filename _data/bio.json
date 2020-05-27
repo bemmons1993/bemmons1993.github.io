@@ -1,0 +1,95 @@
+{
+    "basics": {
+      "name": "Brian Emmons",
+      "label": "Student",
+      "picture": "https://media-exp1.licdn.com/dms/image/C5603AQFnAhUvvfHyWQ/profile-displayphoto-shrink_200_200/0?e=1596067200&v=beta&t=2-bldIkp9MA03O22dSLBpNQgxOapyg4kEzeWHhTs10w",
+      "email": "brianemmons93@gmail.com",
+      "phone": "608-630-3478",
+      "website": "https://brianemmons1993.github.io",
+      "summary": "I am studying to be a full stack web developer through the UW Extension coding bootcamp.",
+      "location": {
+        "address": "1202 McKenna Blvd Apt 102",
+        "postalCode": "53719",
+        "city": "Madison",
+        "countryCode": "USA",
+        "region": "Wisconsin"
+      },
+      "profiles": [
+        {
+          "network": "github",
+          "username": "bemmons1993",
+          "url": "http://github.com/bemmons1993"
+        },
+        {
+          "network": "linkedin",
+          "username": "brianemmons1993",
+          "url": "https://www.linkedin.com/in/brianemmons1993/"
+        }
+        
+      ]
+    },
+    "interests": [
+      {
+        "name": "Front End Web Development",
+        "keywords": [
+    
+        ]
+      },
+      {
+        "name": "Back End Web Development",
+        "keywords": [
+        ]
+      },
+      {
+        "name": "Databases",
+        "keywords": [
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "Languages and Frameworks",
+        "level": "",
+        "keywords": [
+          "JavaScript",
+          "Java",
+          "HTML",
+          "CSS",
+          "MySQL"
+  
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Wisconsin Madison Extension, Madison, WI",
+        "area": "Full Stack Web Development (expected August, 2020)",
+        "studyType": "Full Stack Web Development Certification",
+        "startDate": "2020-01-15",
+        "endDate": "Present",
+        "gpa": "",
+        "courses": [
+        ]
+      }
+    ],
+    "work": [
+      {
+        "company": "The Cheesecake Factory",
+        "position": "Server",
+        "website": "",
+        "startDate": "08/15/2019",
+        "endDate": "Present",
+        "summary": "Server",
+        "highlights": [
+          "Quick, Professional service"
+        ]
+      }
+      
+    ],
+    "references": [
+      {
+        "name": "Available upon request",
+        "reference": ""
+      }
+    ]
+  }
