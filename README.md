@@ -8,6 +8,10 @@ This is my completed portfolio page with an about me section, some of my project
 * CSS
 * JavaScript 
 
+---
 
+Screenshot of my Profile: [https://ibb.co/XypjFmx]
+
+---
 
 
