@@ -7,6 +7,7 @@ date: 2026
 published: true
 labels:
   - React
+  - 
 summary: "A react app to test user trivia knowledge of South Park."
 ---
 <img class="img-fluid" src="../img/sptlogo.png">
