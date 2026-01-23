@@ -15,4 +15,4 @@ summary: "A react based game to test memory with images."
 
 Clicky game is a game I created in react. The purpose is to test the users memory via clicks.
 
-Source: <a href="https://github.com/bemmons1993/clickygame">
+Source: https://github.com/bemmons1993/clickygame"
