@@ -12,7 +12,7 @@ labels:
   - Artificial Intelligence
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/artintlog.jpg">
+<img class="img-fluid" src="../img/artintlog.jpg">
 
 
 The field of software engineering is currently undergoing big changes. We are moving away from static applications toward dynamic, data-driven systems hosted in the cloud. My primary interest lies in the crossroads of cloud networking, data science, and artificial intelligence. The cloud is not just a place to store data, but a constantly evolving network consisting of important connections powered by AI. To sharpen my blades in this area, I want to develop my skills to allow me to build and contribute to infrastructure while deriving useful information from datasets.
