@@ -5,6 +5,7 @@ image: img/sptlogo.png
 title: "Trivia Game"
 date: 2026
 published: true
+labels:
   - React
 summary: "A react app to test user trivia knowledge of South Park."
 ---
