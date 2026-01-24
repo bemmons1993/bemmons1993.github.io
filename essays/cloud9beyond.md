@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "To Cloud 9 and Beyond"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2016-01-22
 published: true
 labels:
   - Software Engineering
