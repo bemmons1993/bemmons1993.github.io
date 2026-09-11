@@ -22,7 +22,9 @@ Learning how to communicate problems clearly is just as important as writing goo
 
 ## Doing It Right: The Smart Way
 
-The “Smart” Question:
+
+The Smart Question:
+
 [How to sort an array of custom objects by property value?](https://stackoverflow.com/questions/24130026/how-to-sort-an-array-of-custom-objects-by-property-value)
 
 A great example of asking a question the smart way can be found on Stack Overflow in "How to sort an array of custom objects by property value?". In this post, the developer is trying to sort an array of custom ImageFile objects in Swift based on an integer fileID. Instead of pasting an entire messy project, they created a clean, small code snippet that isolates the exact problem and asked directly: “How can I sort the images array by ‘fileID’ in ascending or descending order?”
@@ -31,7 +33,9 @@ This post works because it hits all of Raymond’s guidelines. The title is clea
 
 ## What Not to Do
 
-The “Not So Smart” Question:
+
+The Not So Smart Question:
+
 [git push got stuck all of a sudden and not working](https://stackoverflow.com/questions/78832014/git-push-got-stuck-all-of-a-sudden-and-not-working)
 
 On the flip side, we have questions that show what happens when you don’t follow these guidelines, such as git push got stuck all of a sudden and not working. In this post, the user actually titles their issue “git push got stuck all of a sudden and not working”. In the body, they don’t provide any meaningful reproduction steps or explain what they already tried. Instead, they just link their entire github repository, drop a terminal snippet, and ask “Please assist me on what I’m missing.”
