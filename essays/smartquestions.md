@@ -16,6 +16,7 @@ labels:
 
 ## Intro
 
+
 When you run into a roadblock in software engineering, your first instinct is usually to search online or ask someone for help. But there is a huge difference between asking a question that gets you an immediate, helpful answer and asking one that gets completely ignored or downvoted. In Eric Raymond’s essay, How To Ask Questions The Smart Way, he breaks down how open-source and developer communities actually operate. These forums are made up of busy people volunteering their own time so they want to help you. However to get good help, you have to show that you’ve done some leg work on your end.
 
 Learning how to communicate problems clearly is just as important as writing good code. To see this in action, we can look at two contrasting examples on Stack Overflow: one that follows these principles and gets great results, and one that completely misses the target.
@@ -43,6 +44,7 @@ On the flip side, we have questions that show what happens when you don’t foll
 This violates almost every rule in Raymond’s book. The title is vague, there is zero context about their environment or network, and expecting other developers to dig through an entire repository to figure out a basic git issue is unrealistic. As expected, the post received negative votes and was quickly closed by the community. The author walked away with no real answer because they didn’t provide enough useful information to help anyone help them.
 
 ## Smart Questions -> Better Engineering
+
 
 Looking at these two examples makes it clear that the way you ask a question directly affects the quality of the answer you get back. Taking the time to isolate a problem and write a concise example often helps you find the bug on your own as well.
 
