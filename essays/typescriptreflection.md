@@ -24,3 +24,11 @@ Initial Overview
 Athletic Style Coding Approach
 
   The athletic software engineering consisting of new "workouts" in each teaching session is an interesting approach which I am not used to yet.  It kind of reminds me of It's Always Sunny when Frank throws the kid in the pool to teach him how to swim. Being newly introduced to it, it is admittedly uncomfortable but I think this rigid structure will cause people to put more energy into preparation for the WODs (workouts of the day) and help develop habits that lead to success. The practice workouts or WODS in this regiment are definitely useful to give a premonition to the following "real" workout of the day. At this point I understand that this method of learning is for our best interests to reach our full potential as programmers.
+
+Having gone through this course environment before, I have a deeper appreciation for why this structure is in place. It is definitely intense and can be uncomfortable while the clock is ticking, but that rigid structure forces you to put genuine energy into preparation beforehand rather than trying to wing it.
+
+The practice WODs are crucial because they give you a clear preview of the real workout of the day. Doing the practice runs builds the muscle memory needed so that when the real timer starts, you aren’t freezing up. At this point, I understand that this rigorous method is designed in our best interest to push us toward reaching our full potential as software engineers.
+
+In The End
+
+Returning to ICS 314 with TypeScript at the center has reinforced that good programming is about both reliable tools and practice. TypeScript provides the safety net and structure needed to write robust code, while the athletic coding regimen builds the discipline and speed to deliver under pressure.
