@@ -47,3 +47,5 @@ This violates almost every rule in Raymond’s book. The title is vague, there i
 Looking at these two examples makes it clear that the way you ask a question directly affects the quality of the answer you get back. Taking the time to isolate a problem and write a concise example often helps you find the bug on your own as well.
 
 As I continue building my skills in software engineering, developing the habit of asking consice, thoughtful questions will make collaboration smoother and save a lot of wasted time for myself and for the teammates I work with.
+
+I also wanted to write this here for now as I change I've made and pushed to my portfolio github via eclipse and the github desktop app.
