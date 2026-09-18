@@ -12,7 +12,7 @@ labels:
   - Artificial Intelligence
 ---
 
-<img class="img-fluid" src="../img/cloud9.png">
+<img class="img-fluid" src="../img/cloud9.jpg">
 
 ## What do you mean clouds?
 
