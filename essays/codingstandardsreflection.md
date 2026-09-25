@@ -10,6 +10,8 @@ labels:
   - Coding Standards
 ---
 
+<img class="img-fluid" src="../img/drillsergeant111.png">
+
 # Initial Overview
 
 Hearing the words "coding standards" might sound like another burden to the young padawan programmer trying to find his way. It just sounds like another tedious thing you have to worry about. In reality, clean easy to read code saves everybody time. It saves the programmer time as having clean, easy to read, and organized code becomes paramount to troubleshooting/fixing errors in the code. Including notes in the code leaves a trail to follow so you don't get lost in the woods when trying to figure out what the heck is going on with your code. My first week experience of figuring out using ESLint and TypeScript inside VSCode has been one that initially started off as "what's the point of this" and progressed to a deeper appreciation for these formatting guardrails.
