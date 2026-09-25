@@ -10,7 +10,7 @@ labels:
   - Coding Standards
 ---
 
-<img class="img-fluid" src="../img/drillsergeant111.png">
+<img class="img-fluid" src="../img/1fmj.png">
 
 # Initial Overview
 
