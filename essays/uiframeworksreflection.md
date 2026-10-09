@@ -49,7 +49,7 @@ utility classes like flex-nowrap paired with scoped custom padding solved the pr
 
 ## Reflection
 
-Is Bootstrap 5 is not simple. Memorizing class names and component structures 
+Bootstrap 5 is not simple. Memorizing class names and component structures 
 can be frustrating at first. But it's an investment. An investment that makes your life a million times easier 
 as a web developer.
 
