@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/isreact.jpg
+image: main/isreact.jpg
 title: "Island Snow React"
 date: 2026
 published: true
@@ -14,7 +14,7 @@ labels:
 summary: "A responsive web application replicating the Island Snow store built using Next.js and React."
 ---
 
-<img class="img-fluid" src="../img/isreact.jpg">
+<img class="img-fluid" src="../main/isreact.jpg">
 
 Island Snow React is a full-stack responsive web application I built using Next.js, React, TypeScript, Bootstrap 5, and custom CSS. It replicates the user interface and layout of the Island Snow store, featuring a top utility and social bar, a prominent brand logo, interactive dropdown navigation menus for categories, full-width background imagery, and a structured footer.
 
