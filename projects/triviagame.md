@@ -1,26 +1,29 @@
 ---
 layout: project
 type: project
-image: img/sptlogo.png
-title: "Trivia Game"
+image: img/isreact.jpg
+title: "Island Snow React"
 date: 2026
 published: true
 labels:
-  - JavaScript
-  - CSS
-  - HTML
-summary: "A react app to test user trivia knowledge of South Park."
+  - Next.js
+  - React
+  - TypeScript
+  - Bootstrap
+  - GitHub Actions
+summary: "A responsive web application replicating the Island Snow store built using Next.js and React."
 ---
-<img class="img-fluid" src="../img/sptlogo.png">
 
-Trivia Game is a game I made using JS, CSS, and HTML. It tests the users knowledge of trivia related to the hit tv series, "South Park". The questions vary in difficulty. 5 questions are asked and the game keeps track of incorrect/correct questions then displays the score at the end with a prompt to try again.
+<img class="img-fluid" src="../img/isreact.jpg">
 
-My role in this game was that I created the entirety of it. I styled the game with CSS, used HTML for front end then used JS to provide the game functionality. All of the buttons, timers, menus I created. It took me a bit of time as I was working with unfamiliar syntax pertaining to the functionality of the buttons.
+Island Snow React is a full-stack responsive web application I built using Next.js, React, TypeScript, Bootstrap 5, and custom CSS. It replicates the user interface and layout of the Island Snow store, featuring a top utility and social bar, a prominent brand logo, interactive dropdown navigation menus for categories, full-width background imagery, and a structured footer.
 
-In making this game, I learned how to use increments to track correct/incorrect answers. I also learned to append styles to various buttons. I also learned how to implement timer functionality which was a little complicated for me at the time. A game like this, seemingly simple, actually took me quite a bit of time to make. There were a lot more coding steps involved that I thought such as clearInterval and setTimeout commands.
+My role in this project was creating the entirety of the application from scratch. I utilized Bootstrap 5 and custom CSS for responsive styling, React functional components to modularize the front-end architecture, and Next.js to handle page structure, static export routing, and GitHub Actions CI/CD pipelines. Overcoming deployment hurdles required configuring custom base paths and asset prefixes for GitHub Pages, configuring TypeScript declarations for side-effect CSS imports, resolving npm peer dependency conflicts with legacy flags, and managing static image path resolutions.
 
-I included a link to the actual game below. The last link is the source code.
+In making this project, I learned how to effectively structure a modern web application using component-based design in React and integrate Bootstrap seamlessly within a Next.js framework. I also gained deep practical experience handling automated GitHub Actions deployments, static asset prefixing for subdirectory hosting environments, and resolving complex TypeScript type definitions and build errors. A front-end interface like this, seemingly simple at first glance, involved a lot more configuration steps, workflow debugging, and attention to detail than I initially expected.
 
-<a href="https://bemmons1993.github.io/TriviaGame/">Play Trivia Game</a>
+I included a link to the live app below, followed by the source code repository.
 
-Source: <a href="https://github.com/bemmons1993/TriviaGame/">Trivia Game</a>
+<a href="https://bemmons1993.github.io/islandsnow-react/">View Live Mockup</a>
+
+Source: <a href="https://github.com/bemmons1993/islandsnow-react">Island Snow Repository</a>
